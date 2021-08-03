@@ -1,0 +1,11 @@
+﻿body {
+    background-color:white;
+}
+.graph-Section{
+    height:200px;
+
+    background-color:white;
+}
+.graph-Section *{
+    height:100px;
+}
