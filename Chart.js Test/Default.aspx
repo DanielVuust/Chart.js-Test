@@ -10,7 +10,7 @@
 
         </div>
         <div class="col-sm-6">
-
+            <input type="button" name="name" value="yoo" onClick="apiTest();"/>
         </div>
     </section>
 
